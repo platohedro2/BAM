@@ -20,7 +20,13 @@ Esto va a crear una copia del repositorio inicial para el trabajo personal.
 
 
 
-Install
+### Install
+
+node & nvm
+
+yarn
+
+
 
 Dev
 

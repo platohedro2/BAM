@@ -5,3 +5,11 @@
 ### Como se usa
 
 ### Instalación y registro.
+
+
+
+#### Git
+
+#### Registro
+
+#### Credenciales
