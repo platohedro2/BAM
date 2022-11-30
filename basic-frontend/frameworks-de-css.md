@@ -11,7 +11,19 @@ El proyecto va tener 4 páginas web, las cuales son Home, Nosotros, Servicios y 
 Ya que trabajaré con HTML puro en ste tutorial, entonces usaré la CDN de Tailwind CSS, para ello instancio su url dentro de las etiquetas **\<head>\</head>**, por ejemplo:
 
 ```
- <!doctype html><html>  <head>    <meta charset="utf-8">     <title>Home - Mi Proyecto</title>    <meta name="viewport" content="width=device-width, initial-scale=1.0">     <!-- CDN de Tailwind CSS -->    <script src="https://cdn.tailwindcss.com"></script>     <!-- Hoja de estilos Personalizada -->    <link rel="stylesheet" href="assets/css/estilos.css">   </head>   <body>     <!-- Acá va el contenido de la página -->   </body></html> 
+ <!doctype html>
+ <html> 
+  <head>    
+  <meta charset="utf-8">     
+  <title>Home - Mi Proyecto</title>   
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">    
+    <!-- CDN de Tailwind CSS -->    <script src="https://cdn.tailwindcss.com"></script>     
+     <!-- Hoja de estilos Personalizada --> <link rel="stylesheet" href="assets/css/estilos.css">   
+     </head> 
+       <body>     
+       <!-- Acá va el contenido de la página -->  
+        </body>
+        </html> 
 ```
 
 Con ello ya tenemos Tailwind CSS, puedes ver que adicionalmente llamo a un archivo llamado **estilos.css**, este archivo lo he creado manualmente para escribir allí mis propios estilos CSS.
@@ -42,7 +54,21 @@ Este menú va tener el logo del proyecto al lado izquierdo, al lado derecho voy 
 | - |
 
 ```
-<!-- Menú --><nav class="nav flex flex-wrap items-center justify-between px-4 bg-gray-800 px-20">  <div class="flex flex-no-shrink items-center mr-6 py-3 text-grey-darkest">    <span class="font-semibold text-xl tracking-tight text-white">Mi Proyecto</span>  </div>  <input class="menu-btn hidden" type="checkbox" id="menu-btn">  <label class="menu-icon block cursor-pointer md:hidden px-2 py-4 relative select-none" for="menu-btn">    <span class="navicon bg-grey-darkest flex items-center relative"></span>  </label>  <ul class="menu border-b md:border-none flex justify-end list-reset m-0 w-full md:w-auto">    <li class="border-t md:border-none">      <a href="/" class="block md:inline-block px-4 py-3 no-underline text-grey-darkest hover:text-grey-darker font-bold text-white ">Home</a>    </li>    <li class="border-t md:border-none">      <a href="/about/" class="block md:inline-block px-4 py-3 no-underline text-grey-darkest hover:text-grey-darker text-white ">Nosotros</a>    </li>    <li class="border-t md:border-none">      <a href="/blog/" class="block md:inline-block px-4 py-3 no-underline text-grey-darkest hover:text-grey-darker text-white ">Servicios</a>    </li>    <li class="border-t md:border-none">      <a href="/blog/" class="block md:inline-block px-4 py-3 no-underline text-grey-darkest hover:text-grey-darker text-white ">Contacto</a>    </li>  </ul></nav> 
+<!-- Menú -->
+<nav class="nav flex flex-wrap items-center justify-between px-4 bg-gray-800 px-20"> 
+ <div class="flex flex-no-shrink items-center mr-6 py-3 text-grey-darkest">  
+   <span class="font-semibold text-xl tracking-tight text-white">Mi Proyecto</span> 
+    </div>  <input class="menu-btn hidden" type="checkbox" id="menu-btn">  
+    <label class="menu-icon block cursor-pointer md:hidden px-2 py-4 relative select-none" for="menu-btn">    
+    <span class="navicon bg-grey-darkest flex items-center relative"></span>  </label>
+      <ul class="menu border-b md:border-none flex justify-end list-reset m-0 w-full md:w-auto">   
+       <li class="border-t md:border-none">      
+       <a href="/" class="block md:inline-block px-4 py-3 no-underline text-grey-darkest hover:text-grey-darker font-bold text-white ">Home</a>    </li>   
+        <li class="border-t md:border-none">      <a href="/about/" class="block md:inline-block px-4 py-3 no-underline text-grey-darkest hover:text-grey-darker text-white ">Nosotros</a>    </li>    
+        <li class="border-t md:border-none">      <a href="/blog/" class="block md:inline-block px-4 py-3 no-underline text-grey-darkest hover:text-grey-darker text-white ">Servicios</a>    </li>    
+        <li class="border-t md:border-none">      <a href="/blog/" class="block md:inline-block px-4 py-3 no-underline text-grey-darkest hover:text-grey-darker text-white ">Contacto</a>    </li>  
+        </ul>
+        </nav> 
 ```
 
 Entonces si abro el archivo en el navegador o en mi servidor, debo de ver el menú sin problemas:
