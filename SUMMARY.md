@@ -21,3 +21,13 @@
   * [Introducción ether.js](basic-frontend/introduccion-ether.js.md)
   * [Llamar al contrato - integración ether.js](basic-frontend/llamar-al-contrato-integracion-ether.js.md)
   * [Terminando la interfaz - Página "crear evento"](basic-frontend/terminando-la-interfaz-pagina-crear-evento.md)
+
+## Group 1
+
+* [Cómo funciona la blockchain gen1](group-1/como-funciona-la-blockchain-gen1.md)
+
+***
+
+* [Cómo funciona ethereum](como-funciona-ethereum.md)
+* [Qué es web](que-es-web.md)
+* [Cómo funciona la EVM](como-funciona-la-evm.md)
