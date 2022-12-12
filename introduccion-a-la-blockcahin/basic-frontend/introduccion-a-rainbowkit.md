@@ -1,6 +1,6 @@
 # Introducción a Rainbowkit
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../../.gitbook/assets/image (1).png>)
 
 ### Qué es RainbowKit?
 

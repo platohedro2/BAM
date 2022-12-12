@@ -1,6 +1,6 @@
 # Introducción a React
 
-![](../.gitbook/assets/image.png)
+![](../../.gitbook/assets/image.png)
 
 ## Qué es react
 
