@@ -23,5 +23,3 @@ sudo apt update
 
 sudo apt install -y nodejs npm
 ```
-
-### Despliegue de proyectos&#x20;

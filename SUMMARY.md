@@ -15,6 +15,7 @@
   * [Frameworks de CSS](introduccion-a-la-blockcahin/basic-frontend/frameworks-de-css.md)
   * [Astro](introduccion-a-la-blockcahin/basic-frontend/astro.md)
   * [Instalación de Astro](introduccion-a-la-blockcahin/basic-frontend/instalacion-de-astro.md)
+  * [Estructura de proyecto](introduccion-a-la-blockcahin/basic-frontend/estructura-de-proyecto.md)
   * [Introducción a React](introduccion-a-la-blockcahin/basic-frontend/introduccion-a-react.md)
   * [Git & Github](introduccion-a-la-blockcahin/basic-frontend/git-and-github.md)
   * [Repositorio base](introduccion-a-la-blockcahin/basic-frontend/repositorio-base.md)
