@@ -25,3 +25,7 @@ npm run dev
 Astro escuchará cualquier cambio en la carpeta `src/` y actualizará automáticamente tu proyecto. De esta forma, no será necesario reiniciar el servidor local durante el desarrollo.
 
 Si no es posible abrir el proyecto en el navegador, regresa a la terminal donde has ejecutado el comando `dev` y chequea si ha ocurrido algún error o si tu proyecto está siendo servido en una URL diferente a la mencionada anteriormente.
+
+<figure><img src="../../.gitbook/assets/nombredelgif2.gif" alt=""><figcaption></figcaption></figure>
+
+Ahora tenemos el proyecto creado y corriendo el  localhost, para  empezar a alterar el código, podemos hacer el reto que nos ponen en la plantilla, "Para empezar, abre el directorio src/pages en tu proyecto. Reto de código: Modifica el mensaje "Bienvenido a Astro" anterior."
