@@ -13,6 +13,7 @@
   * [Conceptos generales de HTML & Elementos básicos de HTML](introduccion-a-la-blockcahin/basic-frontend/conceptos-generales-de-html-and-elementos-basicos-de-html.md)
   * [Conceptos generales de CSS & Etiquetas básicas de CSS](introduccion-a-la-blockcahin/basic-frontend/conceptos-generales-de-css-and-etiquetas-basicas-de-css.md)
   * [Frameworks de CSS](introduccion-a-la-blockcahin/basic-frontend/frameworks-de-css.md)
+  * [Astro](introduccion-a-la-blockcahin/basic-frontend/astro.md)
   * [Introducción a React](introduccion-a-la-blockcahin/basic-frontend/introduccion-a-react.md)
   * [Git & Github](introduccion-a-la-blockcahin/basic-frontend/git-and-github.md)
   * [Repositorio base](introduccion-a-la-blockcahin/basic-frontend/repositorio-base.md)
