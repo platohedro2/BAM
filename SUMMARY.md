@@ -35,7 +35,7 @@
   * [Llamar al contrato - integración ether.js](introduccion-a-la-blockcahin/basic-frontend/llamar-al-contrato-integracion-ether.js.md)
   * [Terminando la interfaz - Página "crear evento"](introduccion-a-la-blockcahin/basic-frontend/terminando-la-interfaz-pagina-crear-evento.md)
 * [Solidity](introduccion-a-la-blockcahin/solidity/README.md)
-  * [Introducción a Solidity](introduccion-a-la-blockcahin/solidity/introduccion-a-solidity.md)
+  * [Introducción a Solidity](introduccion-a-la-blockcahin/solidity/intro.md)
   * [Remix ide](introduccion-a-la-blockcahin/solidity/remix-ide.md)
   * [Estructura de contrato](introduccion-a-la-blockcahin/solidity/estructura-de-contrato.md)
   * [Estándares de contratos](introduccion-a-la-blockcahin/solidity/estandares-de-contratos.md)

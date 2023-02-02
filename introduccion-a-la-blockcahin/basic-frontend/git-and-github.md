@@ -48,17 +48,48 @@ Una forma muy amigable de utilizar Github es  por medio de la extensión  de Vis
 
 
 
-
-
-### Creando un repositorio&#x20;
-
-
-
-### Clonando un repositorio&#x20;
+<figure><img src="../../.gitbook/assets/nombredelgif (1).gif" alt=""><figcaption></figcaption></figure>
 
 
 
-### Haciendo commit y push&#x20;
+## Creando un repositorio&#x20;
+
+Vamos a la web de [github](https://github.com/) y presionamos el boton de new repository, agregamos el nombre que le quremos dar al repositorio.&#x20;
+
+
+
+<figure><img src="../../.gitbook/assets/create_repo.gif" alt=""><figcaption></figcaption></figure>
+
+&#x20;
+
+
+
+## Clonando un repositorio&#x20;
+
+Presionas ctrl + shift + p para habilitar  el input
+
+
+
+<figure><img src="../../.gitbook/assets/colne.gif" alt=""><figcaption></figcaption></figure>
+
+## Config github
+
+Escribe las siguentes  lineas de comando para vincular tu susario de github con Vscode
+
+```
+git config --global user.email "tucorreo@gmail.com"
+
+git config --global user.name "tu_nombre_de_usuario"
+
+```
+
+<figure><img src="../../.gitbook/assets/config.gif" alt=""><figcaption></figcaption></figure>
+
+## &#x20;Commit y Push&#x20;
+
+Al hacer cambios en algun archivo en la columna derecha  se registran los cambios que tiene el archivo local con el que esta en la nube, para subuir los cambios te vas a la columna, depositas el comentario con el que quieres subiur el cambio y  presiona el boton de confirmación
+
+<figure><img src="../../.gitbook/assets/push.gif" alt=""><figcaption></figcaption></figure>
 
 
 

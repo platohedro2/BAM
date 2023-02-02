@@ -1,4 +1,4 @@
-# Intro
+# Introducción a Solidity
 
 ### Escribir un contrato inteligente
 
