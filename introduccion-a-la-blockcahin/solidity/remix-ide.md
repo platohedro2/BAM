@@ -1,4 +1,4 @@
-# REMIX IDE
+# Remix ide
 
 Remix es gran conjunto de herramientas que puede ser utilizado para todo el trayecto de desarrollo de contratos por usuarios de cualquier nivel de conocimiento, y como laboratorio de aprendizaje para enseñar y experimentar con Ethereum.
 
