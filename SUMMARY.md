@@ -20,7 +20,6 @@
   * [Paginas en Astro](introduccion-a-la-blockcahin/basic-frontend/paginas-en-astro.md)
   * [Markdown y MDX](introduccion-a-la-blockcahin/basic-frontend/markdown-y-mdx.md)
   * [Creando un proyecto en Astro](introduccion-a-la-blockcahin/basic-frontend/creando-un-proyecto-en-astro.md)
-  * [Introducción a React](introduccion-a-la-blockcahin/basic-frontend/introduccion-a-react.md)
   * [Git & Github](introduccion-a-la-blockcahin/basic-frontend/git-and-github.md)
   * [Repositorio base](introduccion-a-la-blockcahin/basic-frontend/repositorio-base.md)
   * [Escribiendo JSX](introduccion-a-la-blockcahin/basic-frontend/escribiendo-jsx.md)
@@ -35,3 +34,7 @@
   * [Introducción ether.js](introduccion-a-la-blockcahin/basic-frontend/introduccion-ether.js.md)
   * [Llamar al contrato - integración ether.js](introduccion-a-la-blockcahin/basic-frontend/llamar-al-contrato-integracion-ether.js.md)
   * [Terminando la interfaz - Página "crear evento"](introduccion-a-la-blockcahin/basic-frontend/terminando-la-interfaz-pagina-crear-evento.md)
+
+## Solidity
+
+* [Intro a Solidity](solidity/intro-a-solidity.md)
