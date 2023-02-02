@@ -44,7 +44,21 @@ sudo apt install git
 
 ## Github-VsCode
 
-Una foirma muy amigable de utilizar Github es  por medio del plugin de Visual studio code, que permite integrar los repos de la nube con tu sistema de archivos local&#x20;
+Una forma muy amigable de utilizar Github es  por medio de la extensión  de Visual studio code, con la cual podremos integrar los repositorios de la nube con nuestro sistema de archivos local
+
+
+
+
+
+### Creando un repositorio&#x20;
+
+
+
+### Clonando un repositorio&#x20;
+
+
+
+### Haciendo commit y push&#x20;
 
 
 
