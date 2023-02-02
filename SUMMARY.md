@@ -4,10 +4,10 @@
 
 ## Introducción a la Blockcahin
 
-* [Qué es web](introduccion-a-la-blockcahin/que-es-web.md)
-* [Cómo funciona la EVM](introduccion-a-la-blockcahin/como-funciona-la-evm.md)
 * [Cómo funciona ethereum](introduccion-a-la-blockcahin/como-funciona-ethereum.md)
-* [Cómo funciona la blockchain gen1](introduccion-a-la-blockcahin/como-funciona-la-blockchain-gen1.md)
+* [Cómo funciona la EVM](introduccion-a-la-blockcahin/como-funciona-la-evm/README.md)
+  * [Cómo funciona la blockchain gen1](introduccion-a-la-blockcahin/como-funciona-la-evm/como-funciona-la-blockchain-gen1.md)
+* [Qué es web](introduccion-a-la-blockcahin/que-es-web.md)
 * [Basic FrontEnd](introduccion-a-la-blockcahin/basic-frontend/README.md)
   * [Cómo funciona el navegador](introduccion-a-la-blockcahin/basic-frontend/como-funciona-el-navegador.md)
   * [Conceptos generales de HTML & Elementos básicos de HTML](introduccion-a-la-blockcahin/basic-frontend/conceptos-generales-de-html-and-elementos-basicos-de-html.md)
@@ -34,7 +34,5 @@
   * [Introducción ether.js](introduccion-a-la-blockcahin/basic-frontend/introduccion-ether.js.md)
   * [Llamar al contrato - integración ether.js](introduccion-a-la-blockcahin/basic-frontend/llamar-al-contrato-integracion-ether.js.md)
   * [Terminando la interfaz - Página "crear evento"](introduccion-a-la-blockcahin/basic-frontend/terminando-la-interfaz-pagina-crear-evento.md)
-
-## Solidity
-
-* [Intro a Solidity](solidity/intro-a-solidity.md)
+* [Solidity](introduccion-a-la-blockcahin/solidity/README.md)
+  * [Intro](introduccion-a-la-blockcahin/solidity/intro.md)

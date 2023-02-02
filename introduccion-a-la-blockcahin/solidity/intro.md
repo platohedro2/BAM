@@ -1,4 +1,6 @@
-# Intro a Solidity
+# Intro
+
+![Introducción a Solidity](https://user-images.githubusercontent.com/15064710/180662387-02cf75b9-daf4-4a2d-ab07-0cf781453ce2.png)
 
 ### Escribir un contrato inteligente
 
