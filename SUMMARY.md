@@ -36,3 +36,4 @@
   * [Terminando la interfaz - Página "crear evento"](introduccion-a-la-blockcahin/basic-frontend/terminando-la-interfaz-pagina-crear-evento.md)
 * [Solidity](introduccion-a-la-blockcahin/solidity/README.md)
   * [Intro](introduccion-a-la-blockcahin/solidity/intro.md)
+  * [REMIX IDE](introduccion-a-la-blockcahin/solidity/remix-ide.md)
