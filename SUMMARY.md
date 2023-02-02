@@ -4,10 +4,11 @@
 
 ## Introducción a la Blockcahin
 
-* [Cómo funciona ethereum](introduccion-a-la-blockcahin/como-funciona-ethereum.md)
-* [Cómo funciona la EVM](introduccion-a-la-blockcahin/como-funciona-la-evm/README.md)
-  * [Cómo funciona la blockchain gen1](introduccion-a-la-blockcahin/como-funciona-la-evm/como-funciona-la-blockchain-gen1.md)
-* [Qué es web](introduccion-a-la-blockcahin/que-es-web.md)
+* [Introducción a Blockchain](introduccion-a-la-blockcahin/introduccion-a-blockchain/README.md)
+  * [Qué es web](introduccion-a-la-blockcahin/introduccion-a-blockchain/que-es-web.md)
+  * [Cómo funciona la EVM](introduccion-a-la-blockcahin/introduccion-a-blockchain/como-funciona-la-evm.md)
+  * [Cómo funciona la blockchain gen1](introduccion-a-la-blockcahin/introduccion-a-blockchain/como-funciona-la-blockchain-gen1.md)
+  * [Cómo funciona ethereum](introduccion-a-la-blockcahin/introduccion-a-blockchain/como-funciona-ethereum.md)
 * [Basic FrontEnd](introduccion-a-la-blockcahin/basic-frontend/README.md)
   * [Cómo funciona el navegador](introduccion-a-la-blockcahin/basic-frontend/como-funciona-el-navegador.md)
   * [Conceptos generales de HTML & Elementos básicos de HTML](introduccion-a-la-blockcahin/basic-frontend/conceptos-generales-de-html-and-elementos-basicos-de-html.md)
