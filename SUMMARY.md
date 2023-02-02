@@ -38,4 +38,5 @@
   * [Intro](introduccion-a-la-blockcahin/solidity/intro.md)
   * [Remix ide](introduccion-a-la-blockcahin/solidity/remix-ide.md)
   * [Estructura de contrato](introduccion-a-la-blockcahin/solidity/estructura-de-contrato.md)
+  * [Estándares de contratos](introduccion-a-la-blockcahin/solidity/estandares-de-contratos.md)
   * [Variables, tipos y estructuras de datos](introduccion-a-la-blockcahin/solidity/variables-tipos-y-estructuras-de-datos.md)
