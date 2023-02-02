@@ -1,7 +1,5 @@
 # Intro
 
-![Introducción a Solidity](https://user-images.githubusercontent.com/15064710/180662387-02cf75b9-daf4-4a2d-ab07-0cf781453ce2.png)
-
 ### Escribir un contrato inteligente
 
 Para comenzar con el desarrollo de contratos inteligentes, debemos estar familiarizados en lo que constituye un lenguaje de programación orientado a objetos (POO). El lenguaje utilizado en este tutorial es **Solidity** (_el lenguaje utilizado para crear contratos inteligentes en Ethereum_) y se implementa en múltiples cadenas como Binance Smart chain, Polygon o Avalanche.
