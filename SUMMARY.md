@@ -40,3 +40,7 @@
   * [Estructura de contrato](introduccion-a-la-blockcahin/solidity/estructura-de-contrato.md)
   * [Estándares de contratos](introduccion-a-la-blockcahin/solidity/estandares-de-contratos.md)
   * [Variables, tipos y estructuras de datos](introduccion-a-la-blockcahin/solidity/variables-tipos-y-estructuras-de-datos.md)
+  * [Estructuras de control](introduccion-a-la-blockcahin/solidity/estructuras-de-control.md)
+  * [Eventos](introduccion-a-la-blockcahin/solidity/eventos.md)
+  * [Funciones y  modificaciones](introduccion-a-la-blockcahin/solidity/funciones-y-modificaciones.md)
+  * [Tipos de Almacenamiento: call data, memory, etc](introduccion-a-la-blockcahin/solidity/tipos-de-almacenamiento-call-data-memory-etc.md)
