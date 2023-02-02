@@ -41,3 +41,12 @@ En linux puedes utilizar el siguiente comando  o puede ir a la [web](https://git
 ```
 sudo apt install git 
 ```
+
+## Github-VsCode
+
+Una foirma muy amigable de utilizar Github es  por medio del plugin de Visual studio code, que permite integrar los repos de la nube con tu sistema de archivos local&#x20;
+
+
+
+
+
