@@ -28,7 +28,7 @@
   * [Alchemy](introduccion-a-la-blockcahin/basic-frontend/alchemy.md)
   * [Introducción a Rainbowkit](introduccion-a-la-blockcahin/basic-frontend/introduccion-a-rainbowkit.md)
   * [Conectar wallet - Integración Rainbowkit](introduccion-a-la-blockcahin/basic-frontend/conectar-wallet-integracion-rainbowkit.md)
-  * [Introducción web3Storage](introduccion-a-la-blockcahin/basic-frontend/introduccion-web3storage.md)
+  * [Introducción web3Storage](introduccion-a-la-blockcahin/basic-frontend/introduccion-web3storage/README.md)
   * [Almacenar datos - Integración web3Storage](introduccion-a-la-blockcahin/basic-frontend/almacenar-datos-integracion-web3storage.md)
   * [Ajax](introduccion-a-la-blockcahin/basic-frontend/ajax.md)
   * [Introducción ether.js](introduccion-a-la-blockcahin/basic-frontend/introduccion-ether.js.md)
