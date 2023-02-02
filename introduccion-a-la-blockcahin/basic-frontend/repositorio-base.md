@@ -16,6 +16,8 @@ Desde allí se debe buscar el botón de "fork" y presionarlo \[foto]
 
 Esto va a crear una copia del repositorio inicial para el trabajo personal.
 
+En este [Repositorio](https://github.com/platohedro/BAM\_Landing) encontraras la landing page de este proyecto&#x20;
+
 #### Clone
 
 

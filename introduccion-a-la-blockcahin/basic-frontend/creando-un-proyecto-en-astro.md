@@ -4,7 +4,7 @@
 npm create astro@latest
 ```
 
-<figure><img src="../../.gitbook/assets/nombredelgif.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/nombredelgif (1).gif" alt=""><figcaption></figcaption></figure>
 
 Luego de lanzar el comando Astro empieza a crear el proyecto y nos va haciendo preguntas  donde  le decimos  a Astro que instale las dependencias,  luego le damos la ruta donde queremos que quede ubicado el proyecto, posteriormente elegimos la plantilla con la que queremos arrancar nuestro poryecto.
 

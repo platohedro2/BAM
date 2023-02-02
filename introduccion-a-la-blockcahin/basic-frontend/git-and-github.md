@@ -48,7 +48,7 @@ Una forma muy amigable de utilizar Github es  por medio de la extensión  de Vis
 
 
 
-<figure><img src="../../.gitbook/assets/nombredelgif (1).gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/nombredelgif.gif" alt=""><figcaption></figcaption></figure>
 
 
 
