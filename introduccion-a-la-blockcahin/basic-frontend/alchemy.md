@@ -18,7 +18,7 @@ Para utilizar los sevicios de alchemy primero debes de crear una ceunta en este 
 
 ### API KEY
 
-Clickeando&#x20;
+Clickeando  en view key puede visualizar la key que vas implementar para conectarte al nodo.
 
 <figure><img src="../../.gitbook/assets/Captura desde 2023-02-02 11-57-08.png" alt=""><figcaption></figcaption></figure>
 
