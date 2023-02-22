@@ -44,3 +44,4 @@
   * [Eventos](introduccion-a-la-blockcahin/solidity/eventos.md)
   * [Funciones y  modificaciones](introduccion-a-la-blockcahin/solidity/funciones-y-modificaciones.md)
   * [Tipos de Almacenamiento: call data, memory, etc](introduccion-a-la-blockcahin/solidity/tipos-de-almacenamiento-call-data-memory-etc.md)
+  * [Librerias](introduccion-a-la-blockcahin/solidity/librerias.md)
