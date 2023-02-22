@@ -45,3 +45,5 @@
   * [Funciones y  modificaciones](introduccion-a-la-blockcahin/solidity/funciones-y-modificaciones.md)
   * [Tipos de Almacenamiento: call data, memory, etc](introduccion-a-la-blockcahin/solidity/tipos-de-almacenamiento-call-data-memory-etc.md)
   * [Librerias](introduccion-a-la-blockcahin/solidity/librerias.md)
+  * [ABI](introduccion-a-la-blockcahin/solidity/abi.md)
+  * [Testnets y Faucets](introduccion-a-la-blockcahin/solidity/testnets-y-faucets.md)
