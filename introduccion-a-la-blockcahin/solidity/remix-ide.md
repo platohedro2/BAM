@@ -10,4 +10,6 @@ Remix juega bien con otras herramientas, y permite un proceso de despliegue simp
 
 
 
+<figure><img src="../../.gitbook/assets/Captura de pantalla_2023-03-03_15-21-45.png" alt=""><figcaption></figcaption></figure>
+
 ### [Web site](https://remix-project.org/)

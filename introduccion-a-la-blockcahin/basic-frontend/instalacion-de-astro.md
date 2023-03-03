@@ -24,5 +24,5 @@ sudo apt update
 sudo apt install -y nodejs npm
 ```
 
-#### Instalación en windows
+#### [Instalación en windows](https://platohedro-1.gitbook.io/b.a.m/introduccion-a-la-blockcahin/basic-frontend/instalacion-de-astro/como-instalar-node.js-y-npm-en-widnows)
 

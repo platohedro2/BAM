@@ -18,7 +18,7 @@
   * [Frameworks de CSS](introduccion-a-la-blockcahin/basic-frontend/frameworks-de-css.md)
   * [Preprocesador CSS](introduccion-a-la-blockcahin/basic-frontend/preprocesador-css.md)
   * [Astro](introduccion-a-la-blockcahin/basic-frontend/astro.md)
-  * [Instalación de Astro](introduccion-a-la-blockcahin/basic-frontend/instalacion-de-astro/README.md)
+  * [Instalación de Astro](introduccion-a-la-blockcahin/basic-frontend/instalacion-de-astro.md)
     * [Cómo instalar Node.js y NPM en widnows](introduccion-a-la-blockcahin/basic-frontend/instalacion-de-astro/como-instalar-node.js-y-npm-en-widnows.md)
   * [Estructura de proyecto](introduccion-a-la-blockcahin/basic-frontend/estructura-de-proyecto.md)
   * [Componentes en Astro](introduccion-a-la-blockcahin/basic-frontend/componentes-en-astro.md)
