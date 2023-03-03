@@ -40,13 +40,15 @@ En linux puedes utilizar el siguiente comando  o puede ir a la [web](https://git
 sudo apt install git 
 ```
 
+#### Ver como instalar en windows
+
 ## Github-VsCode
 
 Una forma muy amigable de utilizar Github es  por medio de la extensión  de Visual studio code, con la cual podremos integrar los repositorios de la nube con nuestro sistema de archivos local
 
 
 
-<figure><img src="../../.gitbook/assets/nombredelgif.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/nombredelgif.gif" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -56,7 +58,7 @@ Vamos a la web de [github](https://github.com/) y presionamos el boton de new re
 
 
 
-<figure><img src="../../.gitbook/assets/create_repo.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/create_repo.gif" alt=""><figcaption></figcaption></figure>
 
 &#x20;
 
@@ -68,7 +70,7 @@ Presionas ctrl + shift + p para habilitar  el input
 
 
 
-<figure><img src="../../.gitbook/assets/colne.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/colne.gif" alt=""><figcaption></figcaption></figure>
 
 ## Config github
 
@@ -81,13 +83,13 @@ git config --global user.name "tu_nombre_de_usuario"
 
 ```
 
-<figure><img src="../../.gitbook/assets/config.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/config.gif" alt=""><figcaption></figcaption></figure>
 
 ## &#x20;Commit y Push&#x20;
 
 Al hacer cambios en algun archivo en la columna derecha  se registran los cambios que tiene el archivo local con el que esta en la nube, para subuir los cambios te vas a la columna, depositas el comentario con el que quieres subiur el cambio y  presiona el boton de confirmación
 
-<figure><img src="../../.gitbook/assets/push.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/push.gif" alt=""><figcaption></figcaption></figure>
 
 
 
