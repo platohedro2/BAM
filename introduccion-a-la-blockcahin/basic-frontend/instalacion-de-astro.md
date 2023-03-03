@@ -23,3 +23,6 @@ sudo apt update
 
 sudo apt install -y nodejs npm
 ```
+
+#### Instalación en windows
+
