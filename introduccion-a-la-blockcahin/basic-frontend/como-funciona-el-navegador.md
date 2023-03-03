@@ -30,17 +30,9 @@ Chrome es actualmente el navegador más utilizado de internet, y **el 59% de los
 
 ###
 
-### Microsoft Internet Explorer
 
-![Windows Internet Explorer](https://www.euskadi.eus/contenidos/informacion/wz\_software\_nabigatzaileak/es\_20110603/images/ie-logo.gif)
 
-Microsoft Internet Explorer, conocido comúnmente como IE, es un navegador web desarrollado por Microsoft para el sistema operativo Microsoft Windows desde 1995. Ha sido el navegador web más utilizado durante años, con un pico máximo de cuota de utilización del 95% entre el 2002 y 2003. Sin embargo, dicha cuota de mercado ha disminuido paulatinamente con los años. **El 11% de los usuarios de Euskadi.eus utilizaron este navegador durante el año 2019**. Microsoft anunció que a partir de Windows 10 dejará de publicar versiones de este navegador para sustituirlo por Edge.
-
-Su versión más reciente es la 11. **La version instalada por defecto en los ordenadores del Gobierno Vasco es la 9 (equipos con Windows 7) y la 11 (equipos con Windows 10). Se trata del navegador "oficial" para las aplicaciones internas y de intranet del Gobierno Vasco. La versión 9 no es totalmente compatible con los estándares HTML5 y CSS3**
-
-###
-
-### Mozilla Firefox
+**Mozilla Firefox**
 
 ![Mozilla Firefox](https://www.euskadi.eus/contenidos/informacion/wz\_software\_nabigatzaileak/es\_20110603/images/Mozilla\_Firefox\_3.5\_logo\_256.gif)
 

@@ -2,35 +2,15 @@
 
 ## The Scaffold-eth stack
 
-Scaffold-eth is not a product itself but more of a combination or stack of other great tools. It allows you to quickly build and iterate over your smart contracts and frontends. \
-\
-Here are the main components:
+La pila de Scaffold-eth Scaffold-eth no es un producto en sí mismo, sino más bien una combinación o pila de otras grandes herramientas. Te permite construir e iterar rápidamente sobre tus contratos inteligentes y frontends.
 
-* **Solidity** for writing smart contracts.
-* **Hardhat** for running local networks, deploying and testing smart contracts.
-* **React** for building a frontend, using many useful pre-made components and hooks.
-* **Ethers.js** for interacting with deployed smart contracts and the frontend
-* **Ant** for your UI. Can be easily changed to Bootstrap or some other library you prefer.
+Aquí están los componentes principales: Solidity para escribir contratos inteligentes. Hardhat para ejecutar redes locales, desplegar y probar contratos inteligentes. React para construir un frontend, usando muchos componentes útiles pre-hechos y hooks. Ethers.js para interactuar con los contratos inteligentes desplegados y el frontend. Ant para su interfaz de usuario. Se puede cambiar fácilmente a Bootstrap o alguna otra librería que prefieras. Acerca de esta Guía La documentación de Scaffold-eth se divide en tres secciones principales.
 
-## About this Guide
-
-The Scaffold-eth documentation is broken up into **three main sections**.&#x20;
-
-\
-**1.** **Getting Started** - In the **Getting Started** section we start by going over how to install and run the sample project included with Scaffold-eth, as well as key pieces you can tweak to start learning how it works and how it interacts with Hardhat and React. The goal here is to get new developers up and running on Scaffoled-eth lightning fast. ⚡️
-
-![As you edit your smart contract the frontend auto adapts](broken-reference)
-
-**2. Toolkit** - In the **Toolkit** section we cover a brief overview of the tools the Scaffold-eth wraps and utilizes, we look at some of the unique frontend resources that Scaffold-eth provides out of the box, and we look at some of the extra infrastructure features that can be helpful as developers begin to create more sophisticated projects.
-
-**3. SpeedRunEthereum** - In the **SpeedRunEthereum** sections we provide an overview of the tasks that you can challenges that you can take on at [SpeedRunEthereum.com](https://speedrunethereum.com/) to level-up your Scaffold-eth and web3 skills, as well as a catalog of recipes for some of the unique value props that web3 and the Ethereum ecosystem provides.&#x20;
+1. Primeros pasos - En la sección Primeros pasos empezamos por repasar cómo instalar y ejecutar el proyecto de ejemplo incluido con Scaffold-eth, así como las piezas clave que puedes ajustar para empezar a aprender cómo funciona y cómo interactúa con Hardhat y React. El objetivo aquí es conseguir que los nuevos desarrolladores en marcha y funcionando en Scaffoled-eth la velocidad del rayo. ⚡️
 
 
 
-Check the **Built with Scaffold-eth** section to see some production-grade projects built with Scaffold-eth.
+2. Toolkit - En la sección Toolkit cubrimos una breve visión general de las herramientas que Scaffold-eth envuelve y utiliza, nos fijamos en algunos de los recursos frontend únicos que Scaffold-eth proporciona fuera de la caja, y nos fijamos en algunas de las características adicionales de infraestructura que pueden ser útiles a medida que los desarrolladores comienzan a crear proyectos más sofisticados.
+3. SpeedRunEthereum - En las secciones SpeedRunEthereum proporcionamos una visión general de las tareas que puede desafíos que usted puede tomar en SpeedRunEthereum.com para nivelar su Scaffold-eth y web3 habilidades, así como un catálogo de recetas para algunos de los accesorios de valor único que web3 y el ecosistema Ethereum proporciona.
 
-[BuidlGuidl.com](https://buidlguidl.com/) is a community that builds solutions based on Scaffold-eth. Learn more about it on the **BuidlGuidl.com** section.
-
-Finally, if you are running into some issue, check the **Support** section to find out how to get some help or troubleshoot some common problems people usually run into.
-
-Wanna help Scaffold-eth grow? Is there some feature you'd like implemented? Did you run into a bug or did you solve one? Read the **Contributing to Scaffold-eth** section to learn how you can help.
+Visita la sección Built with Scaffold-eth para ver algunos proyectos de producción construidos con Scaffold-eth. BuidlGuidl.com es una comunidad que construye soluciones basadas en Scaffold-eth. Aprende más sobre ella en la sección BuidlGuidl.com. Por último, si te encuentras con algún problema, consulta la sección Soporte para averiguar cómo obtener ayuda o solucionar algunos de los problemas más comunes con los que se suele encontrar la gente. ¿Quieres ayudar a Scaffold-eth a crecer? ¿Hay alguna característica que te gustaría implementar? ¿Te has encontrado con un error o has solucionado uno? Lee la sección Contribuyendo a Scaffold-eth para saber cómo puedes ayudar.
