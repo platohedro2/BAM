@@ -26,8 +26,7 @@ Estas dos personas y el equipo que las acompañó permitió la creación de la E
 1. [1](https://academy.bit2me.com/que-es-ethereum-virtual-machine-evm/)
 2. [2](https://academy.bit2me.com/que-es-ethereum-virtual-machine-evm/)
 
-* [](https://academy.bit2me.com/que-es-ethereum-virtual-machine-evm/)
-* [](https://academy.bit2me.com/que-es-ethereum-virtual-machine-evm/)
+*
 
 ### ¿Cómo funciona la Ethereum Virtual Machine (EVM)?
 
