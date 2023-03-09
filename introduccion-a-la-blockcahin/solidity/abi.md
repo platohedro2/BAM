@@ -2,12 +2,12 @@
 
 ### ¿Qué es ABI?
 
-ABI (Application Binary Interface) en el contexto de la informática es una interfaz entre dos módulos de programa, a menudo entre sistemas operativos y programas de usuario.
+ABI (Application Binary Interface) en el contexto de la informática, es una interfaz entre dos módulos de programa, a menudo entre sistemas operativos y programas de usuario. Dicho en otras palabras, podemos entender al ABI como la información que proporciona un [Contrato inteligente](https://www.santander.com/es/stories/smart-contracts) al ser desplegado, esta información estará estructurada similar a un [formato JSON](https://www.ibm.com/docs/es/baw/20.x?topic=formats-javascript-object-notation-json-format).
 
 \
-EVM (Ethereum Virtual Machine) es el componente central de la red Ethereum, y el contrato inteligente son fragmentos de código almacenados en la cadena de bloques de Ethereum que se ejecutan en EVM.&#x20;
+EVM (Ethereum Virtual Machine) es el componente central de la red Ethereum, y los contratos inteligentes son fragmentos de código almacenados en la cadena de bloques de Ethereum que se ejecutan en la EVM.&#x20;
 
-Contratos inteligentes escritos en lenguajes de alto nivel como [Solidity](https://docs.soliditylang.org/en/v0.8.2/) o [Vyper](https://vyper.readthedocs.io/en/stable/)debe compilarse en código de bytes ejecutable EVM; cuando se implementa un contrato inteligente, este código de bytes se almacena en la cadena de bloques y se asocia con una dirección. Para Ethereum y EVM, un contrato inteligente es solo esta secuencia de código de bytes.&#x20;
+Contratos inteligentes escritos en lenguajes de alto nivel como [Solidity](https://docs.soliditylang.org/en/v0.8.2/) o [Vyper](https://vyper.readthedocs.io/en/stable/) deben compilarse en código de bytes ejecutables EVM; cuando se implementa un contrato inteligente, este código de bytes se almacena en la cadena de bloques y se asocia con una dirección. Para Ethereum y la EVM, un contrato inteligente es solo esta secuencia de código de bytes.&#x20;
 
 Para acceder a funciones definidas en lenguajes de alto nivel, los usuarios deben traducir nombres y argumentos en representaciones de bytes para que el código de bytes funcione con ellos.&#x20;
 
