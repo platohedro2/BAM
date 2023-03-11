@@ -2,7 +2,7 @@
 
 ### ¿Qué es ABI?
 
-ABI (Application Binary Interface) en el contexto de la informática, es una interfaz entre dos módulos de programa, a menudo entre sistemas operativos y programas de usuario. Dicho en otras palabras, podemos entender al ABI como la información que proporciona un [Contrato inteligente](https://www.santander.com/es/stories/smart-contracts) al ser compilado, esta información estará estructurada similar a un [formato JSON](https://www.ibm.com/docs/es/baw/20.x?topic=formats-javascript-object-notation-json-format).
+**ABI** (Application Binary Interface) en el contexto de la informática, es una interfaz entre dos módulos de programa, a menudo entre sistemas operativos y programas de usuario. Dicho en otras palabras, podemos entender al **ABI** como la información que proporciona un [Contrato inteligente](https://www.santander.com/es/stories/smart-contracts) al ser compilado, esta información estará estructurada similar a un [formato JSON](https://www.ibm.com/docs/es/baw/20.x?topic=formats-javascript-object-notation-json-format).
 
 \
 EVM (Ethereum Virtual Machine) es el componente central de la red Ethereum, y los contratos inteligentes son fragmentos de código almacenados en la cadena de bloques de Ethereum que se ejecutan en la EVM.&#x20;
@@ -11,17 +11,17 @@ Contratos inteligentes escritos en lenguajes de alto nivel como [Solidity](https
 
 Para acceder a funciones definidas en lenguajes de alto nivel, los usuarios deben traducir nombres y argumentos en representaciones de bytes para que el código de bytes funcione con ellos.&#x20; para interpretar los bytes enviados en respuesta, los usuarios deben volver a convertir a la tupla de valores de retorno definidos en lenguajes de nivel superior.&#x20;
 
-Los lenguajes que compilan para EVM mantienen convenciones estrictas sobre estas conversiones, pero para realizarlas, se deben conocer los nombres y tipos precisos asociados con las operaciones. El ABI documenta estos nombres y tipos con precisión en un formato fácilmente analizable, es muy similar a la API (interfaz de programa de aplicación), una representación legible por humanos de la interfaz de un código.&#x20;
+Los lenguajes que compilan para EVM mantienen convenciones estrictas sobre estas conversiones, pero para realizarlas, se deben conocer los nombres y tipos precisos asociados con las operaciones. El **ABI** documenta estos nombres y tipos con precisión en un formato fácilmente analizable, es muy similar a la **API** (interfaz de programa de aplicación), una representación legible por humanos de la interfaz de un código.&#x20;
 
-ABI define los métodos y las estructuras que se utilizan para interactuar con el contrato binario, al igual que API, pero en un nivel inferior. La ABI indica la persona que llama a la función para codificar la información necesaria, como firmas de funciones y declaraciones de variables en un formato que la EVM puede entender para llamar a esa función en código de bytes; esto se llama codificación ABI.&#x20;
+**ABI** define los métodos y las estructuras que se utilizan para interactuar con el contrato binario, al igual que **API**, pero en un nivel inferior. La **ABI** indica la persona que llama a la función para codificar la información necesaria, como firmas de funciones y declaraciones de variables en un formato que la EVM puede entender para llamar a esa función en código de bytes; esto se llama codificación **ABI**.&#x20;
 
-La codificación ABI está mayormente automatizada, a cargo de compiladores como [REMIX](https://remix.ethereum.org/) o billeteras que interactúan con la cadena de bloques. El contrato ABI se representa en formato JSON. Hay especificaciones claras de cómo codificar y decodificar un contrato ABI.&#x20;
+La codificación **ABI** está mayormente automatizada, a cargo de compiladores como [REMIX](https://remix.ethereum.org/) o billeteras que interactúan con la cadena de bloques. El contrato **ABI** se representa en formato JSON. Hay especificaciones claras de cómo codificar y decodificar un contrato **ABI**.&#x20;
 
 
 
 ### ¿Cómo obtener/generar ABI?
 
-La forma más fácil de obtenerlo es a través de [Ethereum REMIX IDE](https://remix.ethereum.org/), en la parte inferior de la sección de *compilar*, lo copias usando el botón **ABI**. Cabe destacar que no es necesario que despliegues el contrato para poder obtener el **ABI**, sencillamente dale al botón *compilar* o presiona la combinación de teclas: *ctrl + s* y con ello te aparecerá el botón. \
+La forma más fácil de obtenerlo es a través de [Ethereum REMIX IDE](https://remix.ethereum.org/), en la parte inferior de la sección de *compilar*, lo copias usando el botón **ABI**. Cabe destacar que no es necesario que despliegues el contrato para poder obtener el **ABI**, sencillamente puedes presionar el botón *compilar* o presionas la combinación de teclas: **ctrl + s** y con ello te aparecerá el botón. \
 
 
 <figure><img src="https://lh5.googleusercontent.com/irrw0SgFg9h5wh-2Y8_jOHdTZAKi55ul0CgbS51yrAfvOd7xIcX45CWFoRNcI-I1LA3Hg59kLorwgZXY-QYml1rQsSoUZDvFPSi_0ykA6kuQYf3n9WY3E5bNSAbP21rvt2c6WkNJ" alt=""><figcaption></figcaption></figure>
