@@ -21,7 +21,7 @@ La codificación **ABI** está mayormente automatizada, a cargo de compiladores 
 
 ### ¿Cómo obtener / generar ABI?
 
-La forma más fácil de obtenerlo es a través de [Ethereum REMIX IDE](https://remix.ethereum.org/), en la parte inferior de la sección de *compilar*, lo copias usando el botón **ABI**. Cabe destacar que no es necesario que despliegues el contrato para poder obtener el **ABI**, sencillamente puedes presionar el botón *compilar* o presionas la combinación de teclas: **ctrl + s** y con ello te aparecerá el botón. \
+La forma más fácil de obtenerlo es a través de [Ethereum REMIX IDE](https://remix.ethereum.org/), en la parte inferior de la sección de *compilar*, lo copias usando el botón **ABI**. Cabe destacar que no es necesario que despliegues el contrato para poder obtener el **ABI**, sencillamente puedes presionar el botón *compilar* o presionas la combinación de teclas: **ctrl + s** y con ello te aparecerá el botón.
 
 
 <figure><img src="https://lh5.googleusercontent.com/irrw0SgFg9h5wh-2Y8_jOHdTZAKi55ul0CgbS51yrAfvOd7xIcX45CWFoRNcI-I1LA3Hg59kLorwgZXY-QYml1rQsSoUZDvFPSi_0ykA6kuQYf3n9WY3E5bNSAbP21rvt2c6WkNJ" alt=""><figcaption></figcaption></figure>
@@ -62,8 +62,6 @@ contract test {
 
 }
 ```
-
-\
 ## Explicación del código anterior.
 Línea 1: especificando el tipo [de licencia SPDX](https://spdx.org/licenses/), esto es totalmente adicional después de la versión de Solidity *0.6.8* y para versiones futuras; cada vez que el código fuente de un contrato inteligente se pone a disposición del público, estas licencias pueden ayudar a resolver / evitar problemas de derechos de autor. Si no desea especificar ningún tipo de licencia, puede usar un valor especial **SIN LICENCIA** o simplemente omitir todo el comentario (no generará un error, solo una advertencia).\
 Línea 2: Declaración de la versión Solidity.\
