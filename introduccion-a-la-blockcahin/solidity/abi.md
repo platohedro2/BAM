@@ -9,11 +9,9 @@ EVM (Ethereum Virtual Machine) es el componente central de la red Ethereum, y lo
 
 Contratos inteligentes escritos en lenguajes de alto nivel como [Solidity](https://docs.soliditylang.org/en/v0.8.2/) o [Vyper](https://vyper.readthedocs.io/en/stable/) deben compilarse en código de bytes ejecutables EVM; cuando se implementa un contrato inteligente, este código de bytes se almacena en la cadena de bloques y se asocia con una dirección. Para Ethereum y la EVM, un contrato inteligente es solo esta secuencia de código de bytes.&#x20;
 
-Para acceder a funciones definidas en lenguajes de alto nivel, los usuarios deben traducir nombres y argumentos en representaciones de bytes para que el código de bytes funcione con ellos.&#x20;
+Para acceder a funciones definidas en lenguajes de alto nivel, los usuarios deben traducir nombres y argumentos en representaciones de bytes para que el código de bytes funcione con ellos.&#x20; para interpretar los bytes enviados en respuesta, los usuarios deben volver a convertir a la tupla de valores de retorno definidos en lenguajes de nivel superior.&#x20;
 
-Para interpretar los bytes enviados en respuesta, los usuarios deben volver a convertir a la tupla de valores de retorno definidos en lenguajes de nivel superior.&#x20;
-
-Los lenguajes que compilan para EVM mantienen convenciones estrictas sobre estas conversiones, pero para realizarlas, se deben conocer los nombres y tipos precisos asociados con las operaciones. El ABI documenta estos nombres y tipos con precisión, formato fácilmente analizable,\
+Los lenguajes que compilan para EVM mantienen convenciones estrictas sobre estas conversiones, pero para realizarlas, se deben conocer los nombres y tipos precisos asociados con las operaciones. El ABI documenta estos nombres y tipos con precisión en un formato fácilmente analizable,\
 Es muy similar a la API (interfaz de programa de aplicación), una representación legible por humanos de la interfaz de un código.&#x20;
 
 ABI define los métodos y las estructuras que se utilizan para interactuar con el contrato binario, al igual que API, pero en un nivel inferior. La ABI indica la persona que llama a la función para codificar la información necesaria, como firmas de funciones y declaraciones de variables en un formato que el EVM puede entender para llamar a esa función en código de bytes; esto se llama codificación ABI.&#x20;
