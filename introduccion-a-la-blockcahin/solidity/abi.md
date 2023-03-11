@@ -2,7 +2,7 @@
 
 ### ¿Qué es ABI?
 
-ABI (Application Binary Interface) en el contexto de la informática, es una interfaz entre dos módulos de programa, a menudo entre sistemas operativos y programas de usuario. Dicho en otras palabras, podemos entender al ABI como la información que proporciona un [Contrato inteligente](https://www.santander.com/es/stories/smart-contracts) al ser desplegado, esta información estará estructurada similar a un [formato JSON](https://www.ibm.com/docs/es/baw/20.x?topic=formats-javascript-object-notation-json-format).
+ABI (Application Binary Interface) en el contexto de la informática, es una interfaz entre dos módulos de programa, a menudo entre sistemas operativos y programas de usuario. Dicho en otras palabras, podemos entender al ABI como la información que proporciona un [Contrato inteligente](https://www.santander.com/es/stories/smart-contracts) al ser compilado, esta información estará estructurada similar a un [formato JSON](https://www.ibm.com/docs/es/baw/20.x?topic=formats-javascript-object-notation-json-format).
 
 \
 EVM (Ethereum Virtual Machine) es el componente central de la red Ethereum, y los contratos inteligentes son fragmentos de código almacenados en la cadena de bloques de Ethereum que se ejecutan en la EVM.&#x20;
