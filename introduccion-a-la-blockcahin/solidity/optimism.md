@@ -29,3 +29,49 @@ Remix automáticamente te creará un conjunto de carpetas y supcarpetas de las c
 
 ![image](https://github.com/Juminstock/BAM/blob/main/.gitbook/assets/remix_compiled.png?raw=true)
 Si todo está bien, te mostrará un ✅ de color verde que indicará que podemos proceder.
+
+4. El siguiente paso será desplegar nuestro contrato. Dirígite a la sección de "compilar" y despliega la lista superior para seleccionar una conexión con Metamask:
+
+![image](https://github.com/Juminstock/BAM/blob/main/.gitbook/assets/remix_select.png?raw=true)
+![image](https://github.com/Juminstock/BAM/blob/main/.gitbook/assets/remix_metamask.png?raw=true)
+Esto lo hacemos para poder desplegar nuestro contrato en la red testnet de Metamask.
+
+## Pequeño break
+
+Antes de conectar con nuestra billetera de Metamask, deberemos configurar la red testnet de Optimist (este es un paso que sí vas a desplegar en la red principal, no será necesario que lo hagas), para eso sigue estos pasos: 
+
+![image](https://github.com/Juminstock/BAM/blob/main/.gitbook/assets/metamask_1.png?raw=true)
+Primero, dale click donde dice "ethereum mainnet" para desplegar una lista, luego dale click al botón "agregar red".
+
+![image](https://github.com/Juminstock/BAM/blob/main/.gitbook/assets/metamask_2.png?raw=true)
+Segundo, dale click al botón inferior que dice "agregar una red manualmente" e introduce los siguientes datos:
+
+![image](https://github.com/Juminstock/BAM/blob/main/.gitbook/assets/metamask_3.png?raw=true)
+Finalmente, guarda la nueva red y cambiate a ella en la sección de "redes".
+
+5. Luego de haber establecido la configuración correspondiente en nuestra billetera de Metamask, podemos pasar a seleccionar "Metamask injección" que se encuentra en la lista desplegada anteriormente, esto nos abrirá una ventana de Metamask pidiéndonos autorización para conectarse a nuestra waller: 
+
+![image](https://github.com/Juminstock/BAM/blob/main/.gitbook/assets/metamask_connect.png?raw=true)
+Dale conectar y con eso estaremos listos para desplegar.
+
+6. Dale click al botón "desplegar", esto te abrirá una ventana de Metamask para que confirmes la transacción, accede a través del botón azul: 
+
+![image](https://github.com/Juminstock/BAM/blob/main/.gitbook/assets/remix_desplegar.png?raw=true)
+![image](https://github.com/Juminstock/BAM/blob/main/.gitbook/assets/metamask_confirmated.png?raw=true)
+
+7. ¡Excelente! Con esto habrás desplegado tu primer contrato inteligente en la red de Optimist. Si todo salió bien, debería aparecerde un mensaje en la parte inferior derecha con una información:
+
+![image](https://github.com/Juminstock/BAM/blob/main/.gitbook/assets/remix_copied_tx.png?raw=true)
+¡Estupendo! Ahora, pasemos a verificar nuestra transacción, para ello, copia la dirección de tu contrato como se muestra en esta captura ☝.
+
+8. Dirígete a esta web: https://goerli-optimism.etherscan.io/ Este es el explorador de bloques de la red testnet de Optimist, en ella vas a pegar la dirección de tu contrato:
+
+![image](https://github.com/Juminstock/BAM/blob/main/.gitbook/assets/optimist_explorer.png?raw=true)
+Dale click ahí para buscar tu contrato.
+
+9. ¡Vualá! Podrás ver tu contrato inteligente y toda su información correspendiente desplegada en la red testnet de Optimist:
+
+![image](https://github.com/Juminstock/BAM/blob/main/.gitbook/assets/optimist_explorer2.png?raw=true)
+Con esto habremos finalizado este tutorial.
+
+Esperamos que te haya servido de mucho.
