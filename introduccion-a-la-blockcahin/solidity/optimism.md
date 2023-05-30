@@ -17,3 +17,15 @@ Ya que hemos entendido el punto anterior de lo que es Optimist, podemos entender
 1. Lo primero que vamos a hacer es ir al contract wizard de OpenZeppelin y crear un ERC-721 básico: 
 
 ![image](https://github.com/Juminstock/BAM/blob/main/.gitbook/assets/Screenshot%20from%202023-05-30%2014-19-04.png?raw=true)
+En la sección de "name" otorgale el nombre que desees y puedes seleccionar los 3 campos que ves en la captura.
+
+2. Luego, pasamos a abrir Remix y, crear un nuevo archivo y pegar el código generado por el contract wizard ahí:
+
+![image](https://github.com/Juminstock/BAM/blob/main/.gitbook/assets/remix_newFile.png?raw=true)
+![image](https://github.com/Juminstock/BAM/blob/main/.gitbook/assets/remix_codePasted.png?raw=true)
+Remix automáticamente te creará un conjunto de carpetas y supcarpetas de las cuales no tendrás por qué preocuparte, eso es algo que remix ejecuta para su correcto funcionamiento.
+
+3. El paso 3 será compilar tu contrato. Esto para verificar que todo esté funcionamiento de forma correcta y que no haya errores de sintaxis:
+
+![image](https://github.com/Juminstock/BAM/blob/main/.gitbook/assets/remix_compiled.png?raw=true)
+Si todo está bien, te mostrará un ✅ que indicará que podemos proceder.
