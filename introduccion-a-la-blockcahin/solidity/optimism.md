@@ -14,5 +14,4 @@ Ya que hemos entendido el punto anterior de lo que es Optimist, podemos entender
 
 # Pasos para la construcción de un contrato inteligente
 
-1. Lo primero que vamos a hacer es ir al contract wizard de OpenZeppelin y crear un ERC-721 básico: <img src="![image](https://github.com/Juminstock/BAM/assets/105810861/7fd1658a-6d77-4c4a-8a81-ff463560c79f)
-">
+1. Lo primero que vamos a hacer es ir al contract wizard de OpenZeppelin y crear un ERC-721 básico: ![image](https://github.com/Juminstock/BAM/blob/main/.gitbook/assets/Screenshot%20from%202023-05-30%2014-19-04.png?raw=true)
